@@ -1,0 +1,1 @@
+PATCHER_BASE_URL=http://toontown.rocketprogrammer.me:8000/launcher/current

@@ -5,3 +5,5 @@ useropt
 *.vmp
 *.i64
 *.bz2
+news/*
+whitelist/twhitelist.dat
