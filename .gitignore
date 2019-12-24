@@ -7,3 +7,5 @@ useropt
 *.bz2
 news/*
 whitelist/twhitelist.dat
+*.lib
+*.obj
